@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/database/src/model/Course.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/database/src/view/FormLecturer.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/database/src/dao/CourseDAO.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/database/src/dao/LecturerDAO.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/database/src/model/Lecturer.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/database/src/controller/CourseController.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/database/src/view/FormMahasiswa.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/database/src/view/FormCourse.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/database/src/model/Mahasiswa.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/database/src/controller/MahasiswaController.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/database/src/dao/MahasiswaDAO.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/database/src/model/Krs.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/database/src/view/FormKrs.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/database/src/dao/KrsDAO.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/database/src/controller/KrsController.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/database/src/view/FormDashboard.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/database/src/dao/UserDAO.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/database/src/view/FormLogin.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/database/src/view/MainFromFIx.java</file>
+            <file>file:/C:/Users/LENOVO/Documents/NetBeansProjects/database/src/view/SupplierJPanel.java</file>
+        </group>
+    </open-files>
+</project-private>
